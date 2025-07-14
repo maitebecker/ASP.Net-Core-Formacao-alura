@@ -1,0 +1,25 @@
+# Build e logs
+bin/
+obj/
+*.log
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Configs locais
+appsettings.*.json
+
+# IDEs
+*.swp
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Outros
+*.db
+*.sqlite
+*.mdf
